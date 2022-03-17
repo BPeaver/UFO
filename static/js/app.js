@@ -6,7 +6,7 @@ var tbody = d3.select("tbody");
 
 function buildTable(data) {
     tbody.html(""); // sets the table to an empty string to clear it for data
-  }
+  
 
 // Function to populate the table
   data.forEach((dataRow) => { // sets a for loop to go through each row of data
@@ -17,7 +17,7 @@ function buildTable(data) {
       }
     );
   });
-
+}
 // Setting up function to add clickable button for filtering
 function handleClick() {
     let date = d3.select("#datetime").property("value"); // variable 'date' created, uses d3 to select the #datetime id in HTML tags, .property('value') grabs the data and holds in 'date' varabiable
