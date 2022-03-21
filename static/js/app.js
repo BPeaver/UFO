@@ -60,9 +60,10 @@ function updateFilters() {
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    for (let data in filteredData) {
-      filteredData[data]
+    Object.entries(filteredElements).forEach([key, value]) => {
+      
     }
+    
   
     // 10. Finally, rebuild the table using the filtered data
     buildTable(filteredData);
