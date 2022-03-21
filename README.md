@@ -9,7 +9,7 @@ One of the most intriguing mysteries for humankind is simply "Are we alone?" Are
 ## Summary
 While this webpage does an excellent job of filtering based off of the search criteria it does have, it is still a bit limited in its scope. The data set itself only runs for less than 2 full weeks of time in 2010. 
 
-[!"End of Dataset"]https://github.com/BPeaver/UFO/blob/main/static/end%20of%20data.png
+[!end of data](https://github.com/BPeaver/UFO/blob/main/static/end%20of%20data.png)
 
 Expanding this would make it much more useful for finding trends and commonality in these mysterious sightings. 
 
