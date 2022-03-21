@@ -4,7 +4,11 @@
 One of the most intriguing mysteries for humankind is simply "Are we alone?" Are we the only sentient beings in the universe or are there others out there? For years, humanity has seen strange lights, peculiar objects, or other unexplainable phenomena in the sky and recorded these sightings. This webpage will serve as a excellent source for searching for these sightings based off of several different critera (i.e. City the sighting took place in, Date it occured, etc)
 
 ## Results
+Operating the website is very straightforward. Simply enter your filter parameters into one or more fields under "Filter Search" and the table will adust to your needs. In this example, we searched for sightings on 1/1/2010 in California (ca) with a particular shape (light). 
 
+![filtering works](https://github.com/BPeaver/UFO/blob/main/static/filtering%20works.png)
+
+The results show several sightings, most with similiar descriptions in the comments section. Could it be the same craft loitering around California? 
 
 ## Summary
 While this webpage does an excellent job of filtering based off of the search criteria it does have, it is still a bit limited in its scope. The data set itself only runs for less than 2 full weeks of time in 2010. 
