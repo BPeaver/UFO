@@ -24,13 +24,13 @@ function buildTable(data) {
 }
 
 // 1. Create a variable to keep track of all the filters as an object.
-var filteredElements = []
+var filteredElements = {}
 
 // 3. Use this function to update the filters. 
 function updateFilters() {
 
     // 4a. Save the element that was changed as a variable.
-    let searchInput = d3.select("li"); 
+    let searchInput = d3.select(this); 
     
     // 4b. Save the value that as changed as a variable.
     let elementValue = searchInput.property('value'); 
